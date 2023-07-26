@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Localization/1.0.0": {
+        "runtime": {
+          "Localization.dll": {}
+        },
+        "resources": {
+          "ru/Localization.resources.dll": {
+            "locale": "ru"
+          },
+          "uk/Localization.resources.dll": {
+            "locale": "uk"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Localization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
